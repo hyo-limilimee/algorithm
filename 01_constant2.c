@@ -9,3 +9,4 @@ int main()
 	printf("%s\n", "sky");
 	printf("%d\n", "10");
 }
+
