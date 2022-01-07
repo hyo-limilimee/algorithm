@@ -1,3 +1,5 @@
+//0부터 99까지 정수를 한 줄에 10개씩 수직으로 출력하기
+
 #include<stdio.h>
 #pragma warning (disable :4996)
 
