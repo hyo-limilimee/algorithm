@@ -1,3 +1,6 @@
+//ì´ì§„íŒŒì¼ ë³µì‚¬í”„ë¡œê·¸ë¨
+
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -5,9 +8,9 @@ using namespace std;
 
 int main() {
 	string ifile, ofile;
-	cout << "¿øº» ÆÄÀÏ ÀÌ¸§:";
+	cout << "ì›ë³¸ íŒŒì¼ ì´ë¦„:";
 	cin >> ifile;
-	cout << "º¹»ç ÆÄÀÏ ÀÌ¸§:";
+	cout << "ë³µì‚¬ íŒŒì¼ ì´ë¦„:";
 	cin >> ofile;
 	ifstream source(ifile, ios::binary);
 	ofstream dest(ofile, ios::binary);
