@@ -1,3 +1,5 @@
+//ì§€í•˜ì²  ìš”ê¸ˆ ê³„ì‚°í•˜ê¸°
+
 #include<stdio.h>
 #pragma warning (disable:4996)
 
@@ -27,7 +29,7 @@ int input()
 {
 	int cal_num;
 
-	printf("¿ª¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À : ");
+	printf("ì—­ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%d", &cal_num);
 
 	return cal_num;
@@ -79,7 +81,7 @@ int calc()
 
 void output(int fee)
 {
-	printf("¿ä±İ : %d¿ø\n", fee);
+	printf("ìš”ê¸ˆ : %dì›\n", fee);
 
 	return;
 }
