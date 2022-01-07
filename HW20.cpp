@@ -1,3 +1,5 @@
+//Payê³„ì‚° í”„ë¡œê·¸ë¨ ã…£ë³¸ê¸‰ì—¬, ì´ˆê³¼ê·¼ë¬´ìˆ˜ë‹¹, ì„¸ìœ¨ ê³ ë ¤
+
 #include<stdio.h>
 #pragma warning (disable:4996)
 
@@ -25,7 +27,7 @@ int input()
 {
 	int in_hour;
 
-	printf("*1ÁÖÀÏ°£ÀÇ ±Ù¹«½Ã°£À» ÀÔ·ÂÇÏ½Ã¿À. : ");
+	printf("*1ì£¼ì¼ê°„ì˜ ê·¼ë¬´ì‹œê°„ì„ ì…ë ¥í•˜ì‹œì˜¤. : ");
 	scanf("%d", &in_hour);
 
 	return in_hour;
@@ -72,7 +74,7 @@ int cal_taxes(int gloss_pay)
 
 void output(int gloss_pay, int taxes, int pay)
 {
-	printf("# ÃÑ¼öÀÔ : %d¿ø\n# ¼¼±İ : %d¿ø\n# ½Ç¼öÀÔ : %d¿ø", gloss_pay, taxes, pay);
+	printf("# ì´ìˆ˜ì… : %dì›\n# ì„¸ê¸ˆ : %dì›\n# ì‹¤ìˆ˜ì… : %dì›", gloss_pay, taxes, pay);
 
 	return;
 }
