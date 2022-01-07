@@ -1,33 +1,35 @@
+//ë‚˜ì— ëŒ€í•œ ì •ë³´ë¥¼ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨ì„ ì‘ì„±í•˜ì‹œì˜¤.
+	
 #include<stdio.h>
 
-void printAge(int);        //printAge() ÇÔ¼öÀÇ ¼±¾ğºÎ
-void printHeight(double); //printHeight() ÇÔ¼öÀÇ ¼±¾ğºÎ
+void printAge(int);        //printAge() í•¨ìˆ˜ì˜ ì„ ì–¸ë¶€
+void printHeight(double); //printHeight() í•¨ìˆ˜ì˜ ì„ ì–¸ë¶€
 
 
 int main()
 {
-	char name[20] = "°­È¿¸²";
+	char name[20] = "ê°•íš¨ë¦¼";
 	int age = 21;
 	double height = 165.8;
 
-	printf("¼º¸í : %s\n", name);
+	printf("ì„±ëª… : %s\n", name);
 	printAge(age);
 	printHeight(height);
 
 	return 0;
 }
 
-//printAge() ÇÔ¼öÀÇ Á¤ÀÇºÎ
+//printAge() í•¨ìˆ˜ì˜ ì •ì˜ë¶€
 void printAge(int age)
 {
-	printf("³ªÀÌ : %d\n", age);
+	printf("ë‚˜ì´ : %d\n", age);
 	return;
 
 }
 
-//printHeight() ÇÔ¼öÀÇ Á¤ÀÇºÎ
+//printHeight() í•¨ìˆ˜ì˜ ì •ì˜ë¶€
 void printHeight(double height)
 {
-	printf("Å° : %.1lf", height);
+	printf("í‚¤ : %.1lf", height);
 	return;
 }
