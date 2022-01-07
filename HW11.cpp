@@ -1,4 +1,4 @@
-//이름의 글자 수 출력하기
+//아스키코드를 입력받아 해당 문자 출력하기
 
 #include<stdio.h>
 #pragma warning (disable:4996)
