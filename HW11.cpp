@@ -1,12 +1,14 @@
+//ì´ë¦„ì˜ ê¸€ì ìˆ˜ ì¶œë ¥í•˜ê¸°
+
 #include<stdio.h>
 #pragma warning (disable:4996)
 
 int main()
 {
 	int num;
-	printf("ASCII code°ªÀ» ÀÔ·ÂÇÏ½Ã¿À : ");
+	printf("ASCII codeê°’ì„ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%d", &num);
-	printf("%dÀº '%s'ÀÇ ASCII code ÀÔ´Ï´Ù.", num, &num);
+	printf("%dì€ '%s'ì˜ ASCII code ì…ë‹ˆë‹¤.", num, &num);
 
 	return 0;
 }
