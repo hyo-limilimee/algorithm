@@ -1,3 +1,5 @@
+//ì´ë¦„ì˜ ê¸€ì ìˆ˜ ì¶œë ¥
+
 #include <stdio.h>
 #include <string.h>
 #pragma warning(disable:4996)
@@ -6,9 +8,9 @@ int main()
 {
 	char f_name[100], name[100];
 
-	printf("#¼ºÀ» ÀÔ·ÂÇÏ½Ã¿À : ");
+	printf("#ì„±ì„ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%s", f_name);
-	printf("#ÀÌ¸§À» ÀÔ·ÂÇÏ½Ã¿À :");
+	printf("#ì´ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤ :");
 	scanf("%s", name);
 
 	printf("% s % s\n", f_name, name);
