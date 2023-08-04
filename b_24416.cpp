@@ -6,7 +6,7 @@ int cnt1, cnt2 = 0;
 int n;
 int f[41];
 
-//재귀호출 코드
+//using recursive
 int fibo(int n)
 {
 	if (n == 1 || n == 2)
@@ -22,7 +22,7 @@ int fibo(int n)
 }
 
 
-// dp 코드
+// using dp algorithm
 int fibonacci(int n)
 {
 
