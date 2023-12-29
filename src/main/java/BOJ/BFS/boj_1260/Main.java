@@ -1,4 +1,4 @@
-package BOJ.BFS.boj_1260.boj_1260;
+package BOJ.BFS.boj_1260;
 
 import java.util.*;
 
