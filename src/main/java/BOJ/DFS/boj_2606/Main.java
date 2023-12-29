@@ -1,4 +1,4 @@
-package BOJ.boj_2606;
+package BOJ.DFS.boj_2606;
 
 import java.util.ArrayList;
 import java.util.Collections;
