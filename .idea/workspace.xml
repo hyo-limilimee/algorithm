@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9362ada-fc8a-4eb7-965c-1ce853d4e5b1" name="Changes" comment="feat: solve BOJ 6550" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hyo-limilimee&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1708347512" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1708347511" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4316a024-c471-448c-a831-15c395d8ab24" />
+        <option name="url" value="https://github.com/hyo-limilimee/algorithm-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aAndpFX3sZQCpuT2eVKXJ592al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9362ada-fc8a-4eb7-965c-1ce853d4e5b1" name="Changes" comment="" />
+      <created>1703770342095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703770342095</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add: make file boj">
+      <option name="closed" value="true" />
+      <created>1703771447621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703771447621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: BOJ 1260 solved">
+      <option name="closed" value="true" />
+      <created>1703852939553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703852939553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: BOJ 2178 solved">
+      <option name="closed" value="true" />
+      <created>1703856870241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703856870241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: BOJ 2606 solved">
+      <option name="closed" value="true" />
+      <created>1703870349253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703870349253</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor: move packages">
+      <option name="closed" value="true" />
+      <created>1703870740275</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703870740275</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor: move packages">
+      <option name="closed" value="true" />
+      <created>1703870784823</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703870784823</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor: move packages">
+      <option name="closed" value="true" />
+      <created>1704004573440</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704004573440</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: solve BOJ 1697">
+      <option name="closed" value="true" />
+      <created>1704204458505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704204458505</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: solve BOJ 5014">
+      <option name="closed" value="true" />
+      <created>1704206080141</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704206080141</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: solve BOJ 2644">
+      <option name="closed" value="true" />
+      <created>1704216594207</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704216594208</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: solve BOJ 2468">
+      <option name="closed" value="true" />
+      <created>1704272635821</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704272635821</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: solve BOJ 7569">
+      <option name="closed" value="true" />
+      <created>1704289534098</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289534099</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: solve BOJ 24479">
+      <option name="closed" value="true" />
+      <created>1704294427710</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704294427711</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: solve BOJ 24480">
+      <option name="closed" value="true" />
+      <created>1704297172645</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704297172645</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: solve BOJ 24481">
+      <option name="closed" value="true" />
+      <created>1704300080440</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704300080440</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: solve BOJ 24482">
+      <option name="closed" value="true" />
+      <created>1704300672140</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704300672140</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: solve BOJ 24483">
+      <option name="closed" value="true" />
+      <created>1704397556910</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704397556910</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: solve BOJ 24484">
+      <option name="closed" value="true" />
+      <created>1704397577688</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704397577688</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: solve BOJ 24445">
+      <option name="closed" value="true" />
+      <created>1705222417031</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1705222417031</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: solve BOJ 24446">
+      <option name="closed" value="true" />
+      <created>1705411545319</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1705411545319</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: solve BOJ 6550">
+      <option name="closed" value="true" />
+      <created>1708347438236</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1708347438237</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: make file boj" />
+    <MESSAGE value="feat: BOJ 1260 solved" />
+    <MESSAGE value="feat: BOJ 2178 solved" />
+    <MESSAGE value="feat: BOJ 2606 solved" />
+    <MESSAGE value="refactor: move packages" />
+    <MESSAGE value="feat: solve BOJ 1697" />
+    <MESSAGE value="feat: solve BOJ 5014" />
+    <MESSAGE value="feat: solve BOJ 2644" />
+    <MESSAGE value="feat: solve BOJ 2468" />
+    <MESSAGE value="feat: solve BOJ 7569" />
+    <MESSAGE value="feat: solve BOJ 24479" />
+    <MESSAGE value="feat: solve BOJ 24480" />
+    <MESSAGE value="feat: solve BOJ 24481" />
+    <MESSAGE value="feat: solve BOJ 24482" />
+    <MESSAGE value="feat: solve BOJ 24483" />
+    <MESSAGE value="feat: solve BOJ 24484" />
+    <MESSAGE value="feat: solve BOJ 24445" />
+    <MESSAGE value="feat: solve BOJ 24446" />
+    <MESSAGE value="feat: solve BOJ 6550" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: solve BOJ 6550" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
