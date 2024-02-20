@@ -1,4 +1,4 @@
-package BOJ.Queue.boj_1874;
+package BOJ.Stack.boj_1874;
 
 import java.io.*;
 import java.util.*;
