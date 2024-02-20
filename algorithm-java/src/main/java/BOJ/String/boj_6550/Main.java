@@ -1,4 +1,4 @@
-package BOJ.Combination.boj_6550;
+package BOJ.String.boj_6550;
 
 import java.io.BufferedReader;
 import java.io.IOException;

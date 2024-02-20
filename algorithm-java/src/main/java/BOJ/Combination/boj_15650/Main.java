@@ -1,4 +1,4 @@
-package BOJ.Permutation.boj_15650;
+package BOJ.Combination.boj_15650;
 
 import java.io.*;
 import java.util.*;
