@@ -20,14 +20,14 @@ public class Main {
         arr = new int[M];
         visited = new boolean[N];
 
-        dfs(N,M,0);
+        dfs(1,0);
 
         System.out.println(sb);
     }
 
-    public static void dfs(int n, int m, int depth)
+    public static void dfs(int at, int depth)
     {
-        if(depth == m)
+        if(depth == M)
         {
             for(int val: arr){
                 sb.append(val).append(' ');
@@ -36,13 +36,9 @@ public class Main {
             return;
         }
 
-        for(int i = 0; i < n; i++){
-            if(!visited[i]){
-                visited[i] = true;
-                arr[depth] = i + 1;
-                dfs(n,m,depth+1);
-                visited[i] = false;
-            }
+        for(int i = at; i <= N; i++){
+                arr[depth] = i;
+                dfs(i,depth+1);
         }
     }
 }
