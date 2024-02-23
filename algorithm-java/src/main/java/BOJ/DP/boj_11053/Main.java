@@ -1,7 +1,6 @@
-package BOJ.boj_11053;
+package BOJ.DP.boj_11053;
 
 import java.io.*;
-import java.util.*;
 
 public class Main {
     public static int[] a;
