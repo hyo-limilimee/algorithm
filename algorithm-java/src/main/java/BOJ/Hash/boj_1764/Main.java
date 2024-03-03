@@ -1,4 +1,4 @@
-package BOJ.String.boj_1764;
+package BOJ.Hash.boj_1764;
 
 import java.io.*;
 import java.util.*;
