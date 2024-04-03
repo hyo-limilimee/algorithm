@@ -1,4 +1,4 @@
-package BOJ.BruteForce.boj_1018;
+package BOJ.Bitmask.boj_11723.boj_1018;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
