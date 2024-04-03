@@ -1,7 +1,6 @@
-package BOJ.boj_2292;
+package BOJ.Implementation.boj_2292;
 
 import java.io.*;
-import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
