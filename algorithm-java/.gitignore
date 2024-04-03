@@ -45,3 +45,5 @@ bin/
 ### Unsolved
 src/main/java/Unsolved/
 
+
+.gitignore
