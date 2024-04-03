@@ -1,4 +1,4 @@
-package BOJ.boj_11399;
+package BOJ.Implementation.boj_11399;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
