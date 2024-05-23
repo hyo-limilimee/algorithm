@@ -1,4 +1,4 @@
-package BOJ.boj_14425;
+package BOJ.Hash.boj_14425;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
