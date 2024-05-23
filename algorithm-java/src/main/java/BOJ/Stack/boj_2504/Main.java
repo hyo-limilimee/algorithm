@@ -32,7 +32,7 @@ public class Main {
                    result = 0;
                    break;
                }
-               else if(str.charAt(i-1) == '('){
+               if(str.charAt(i-1) == '('){
                    result += temp;
                }
                stack.pop();
@@ -43,12 +43,15 @@ public class Main {
                     result = 0;
                     break;
                 }
-                else if(str.charAt(i-1) == '['){
+                if(str.charAt(i-1) == '['){
                     result += temp;
                 }
                 stack.pop();
                 temp /= 3;
             }
+        }
+        if(!stack.isEmpty()){
+            result = 0;
         }
         System.out.println(result);
     }
