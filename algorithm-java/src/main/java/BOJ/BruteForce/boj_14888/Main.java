@@ -1,4 +1,4 @@
-package BOJ.boj_14888;
+package BOJ.BruteForce.boj_14888;
 
 import java.util.*;
 import java.io.*;
