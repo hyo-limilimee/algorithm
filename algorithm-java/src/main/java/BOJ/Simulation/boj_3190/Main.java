@@ -1,4 +1,4 @@
-package BOJ.BFS.boj_3190;
+package BOJ.Simulation.boj_3190;
 
 import java.util.*;
 import java.io.*;
