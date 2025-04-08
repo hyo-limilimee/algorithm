@@ -1,4 +1,4 @@
-package BOJ.Combination.boj_15649;
+package BOJ.DFS.boj_15649;
 
 import java.util.*;
 import java.io.*;
