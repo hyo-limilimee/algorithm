@@ -1,4 +1,4 @@
-package BOJ.Simulation.boj_4195;
+package BOJ.UnionFind.boj_4195;
 
 import java.io.*;
 import java.util.*;
