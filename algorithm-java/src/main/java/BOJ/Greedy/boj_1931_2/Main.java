@@ -19,7 +19,7 @@ public class Main {
 
         Arrays.sort(time, (a, b) -> {
             if (a[1] == b[1]) {
-                return b[0] - a[0];
+                return a[0] - b[0];
             }
             return a[1] - b[1];
         });
@@ -31,7 +31,7 @@ public class Main {
             int start = time[i][0];
             int end = time[i][1];
 
-            if(start >= prev){
+            if (start >= prev) {
                 count++;
                 prev = end;
             }
