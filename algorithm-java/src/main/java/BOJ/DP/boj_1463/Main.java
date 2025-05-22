@@ -10,7 +10,7 @@ public class Main {
         int[] dp = new int[N + 1];
 
         dp[1] = 0;
-        for (int i = 2; i <= N; i++) {
+        for (int i = 2; i < N; i++) {
             dp[i] = dp[i - 1] + 1;
 
             if (i % 2 == 0) {
@@ -21,7 +21,6 @@ public class Main {
                 dp[i] = Math.min(dp[i], dp[i / 3] + 1);
             }
         }
-
         System.out.println(dp[N]);
     }
 }
