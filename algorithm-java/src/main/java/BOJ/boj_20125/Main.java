@@ -7,7 +7,6 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
         char[][] arr = new char[N][N];
-
         for (int i = 0; i < N; i++) {
             String line = br.readLine();
             for (int j = 0; j < N; j++) {
@@ -64,5 +63,6 @@ public class Main {
 
         System.out.println((heartX + 1) + " " + (heartY + 1));
         System.out.println(leftArm + " " + rightArm + " " + waist + " " + leftLeg + " " + rightLeg);
+
     }
 }
