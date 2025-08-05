@@ -6,7 +6,6 @@ import java.util.*;
 public class Main {
     static int n;
     static int[][] arr;
-    static int[][] dp;
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
