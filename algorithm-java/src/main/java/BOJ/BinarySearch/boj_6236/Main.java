@@ -37,7 +37,7 @@ public class Main {
                 answer = (int) mid;
                 right = mid - 1;
             } else {
-                left = right + 1;
+                left = mid + 1;
             }
         }
         return (int) answer;
